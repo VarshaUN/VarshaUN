@@ -5,7 +5,7 @@ HELLO , WELCOME TO MY PROFILE
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me linkedin:Varsha U N
 - 😄 Pronouns:She/Her
-- ⚡ giveaway: treat me some momos!!
+- ⚡ Thankful?: treat me some momos!!
 
 <!---
 VarshaUN/VarshaUN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
