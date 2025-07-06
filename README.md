@@ -7,14 +7,17 @@
 
 - 🔭 I’m currently working on [Adding ability to store/query downloaded packages](https://summerofcode.withgoogle.com/programs/2025/projects/x7sA6uN6)
 
-- My ML project **Detecting UPI Fraud with Machine Learning : Leveraging Festive patterns**
+- My ML project **Detecting UPI Fraud with Machine Learning : Leveraging Festive patterns** (Checkout the repo below)
 
-- 📝 I regularly write articles on [varshaun.hashnode.dev](varshaun.hashnode.dev)
+- 📝 I  write blogs on [varshaun.hashnode.dev](varshaun.hashnode.dev)
 
 - 📫 How to reach me **varshaun58@gmail.com**
 
-### Blogs posts
+### Interesting Blogs posts
 <!-- BLOG-POST-LIST:START -->
+Essential ML Concepts explained with Math : https://varshaun.hashnode.dev/essential-ml-concepts-explained-with-math 
+
+Beginner's Docker,Navigating your first Container : https://varshaun.hashnode.dev/beginners-docker-navigating-your-first-container-28a688374310
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
@@ -30,4 +33,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varshaun&show_icons=true&locale=en&layout=compact" alt="varshaun" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=varshaun&show_icons=true&locale=en" alt="varshaun" /></p>
