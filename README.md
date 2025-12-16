@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://twitter.com/varsha_u_n_" target="blank"><img src="https://img.shields.io/twitter/follow/varsha_u_n_?logo=twitter&style=for-the-badge" alt="varsha_u_n_" /></a> </p>
 
-- My ML project **Detecting UPI Fraud with Machine Learning : Leveraging Festive patterns** (Checkout the repo below)
 
 - 📝 I  write blogs on [varshaun.hashnode.dev](varshaun.hashnode.dev)
 
