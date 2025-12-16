@@ -1,11 +1,9 @@
-<h1 align="center"> Just synced up!, Varsha U N here✨</h1>
+<h1 align="center"> Heyy!, Varsha U N here✨</h1>
 <h3 align="center">Google Summer of Code Contributor 2025</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshaun&label=Profile%20views&color=0e75b6&style=flat" alt="varshaun" /> </p>
 
 <p align="left"> <a href="https://twitter.com/varsha_u_n_" target="blank"><img src="https://img.shields.io/twitter/follow/varsha_u_n_?logo=twitter&style=for-the-badge" alt="varsha_u_n_" /></a> </p>
-
-- 🔭 I’m currently working on [Adding ability to store/query downloaded packages](https://summerofcode.withgoogle.com/programs/2025/projects/x7sA6uN6)
 
 - My ML project **Detecting UPI Fraud with Machine Learning : Leveraging Festive patterns** (Checkout the repo below)
 
