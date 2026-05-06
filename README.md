@@ -7,7 +7,7 @@
 ---
 
 ```
-selected 1 of 1,272 Google Summer od Code contributors from 130+ countries.
+selected 1 of 1,272 Google Summer of Code contributors from 130+ countries.
 won a national level hackathon against 55 teams.
 ```
 
