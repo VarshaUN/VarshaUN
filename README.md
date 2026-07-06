@@ -2,12 +2,12 @@
 
 # building in the open.
 
-`AI & DS undergrad` · `GSoC mentor & Contributor` · `Kubernetes contributor` · `Cloud Native Mysore organiser`
+`AI & DS undergrad` · `GSoC mentor & Contributor` · `Open source contributor` · `Cloud Native Mysore organiser`
 
 ---
 
 ```
-selected 1 of 1,272 Google Summer of Code contributors from 130+ countries.
+selected as 1 of 1,272 Google Summer of Code contributors from 130+ countries in 2025 
 won a national level hackathon against 55 teams.
 ```
 
@@ -16,6 +16,11 @@ won a national level hackathon against 55 teams.
 ### // timeline
 
 ```
+2026  __  AI Student Researcher @Dubai CS Society
+          Selected globally as one of 249 student researchers
+          (~17%acceptance rate) under Summer Institute of Science,Technology and
+          Engineering Reserach in collab with Dubai CS Society
+          
 2026  ──  GSoC Mentor @ AboutCode
           reviewing PRs, enforcing 90%+ test coverage,
           guiding contributors through architecture decisions.
@@ -48,15 +53,15 @@ now   ──  CNCF Mysore Chapter Organiser
 
 **UPI Fraud Detection** — `Python · Scikit-learn · feature engineering`
 > custom festive-period feature flag. 78.7% accuracy on imbalanced data. sub-10ms latency. built to prevent ₹1,200Cr in potential losses.
-
+ Checkout my research paper and poster on this :)
 ---
 
 ### // stack
 
 ```python
-languages  = ["Python", "Go", "C++", "Java", "C", "TypeScript"]
-infra      = ["Kubernetes", "Docker", "Prometheus", "gRPC", "Thanos"]
-ml         = ["TensorFlow", "Scikit-learn", "FastAPI", "CNNs"]
+languages  = ["Python", "Go", "C++", "Java", "C"]
+infra      = ["Kubernetes", "Docker", "Prometheus", "gRPC","Grafana"]
+ml         = ["Pytorch", "Scikit-learn", "Model training", "Neural nets"]
 cloud      = ["GCP", "AWS"]
 databases  = ["PostgreSQL", "MongoDB", "SQLite"]
 ```
